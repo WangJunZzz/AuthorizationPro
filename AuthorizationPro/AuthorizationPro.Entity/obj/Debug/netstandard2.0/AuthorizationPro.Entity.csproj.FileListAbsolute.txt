@@ -1,0 +1,8 @@
+D:\Code\AuthorizationPro\AuthorizationPro\AuthorizationPro.Entity\bin\Debug\netstandard2.0\AuthorizationPro.Entity.deps.json
+D:\Code\AuthorizationPro\AuthorizationPro\AuthorizationPro.Entity\bin\Debug\netstandard2.0\AuthorizationPro.Entity.dll
+D:\Code\AuthorizationPro\AuthorizationPro\AuthorizationPro.Entity\obj\Debug\netstandard2.0\AuthorizationPro.Entity.AssemblyInfoInputs.cache
+D:\Code\AuthorizationPro\AuthorizationPro\AuthorizationPro.Entity\obj\Debug\netstandard2.0\AuthorizationPro.Entity.AssemblyInfo.cs
+D:\Code\AuthorizationPro\AuthorizationPro\AuthorizationPro.Entity\bin\Debug\netstandard2.0\AuthorizationPro.Entity.pdb
+D:\Code\AuthorizationPro\AuthorizationPro\AuthorizationPro.Entity\obj\Debug\netstandard2.0\AuthorizationPro.Entity.csprojAssemblyReference.cache
+D:\Code\AuthorizationPro\AuthorizationPro\AuthorizationPro.Entity\obj\Debug\netstandard2.0\AuthorizationPro.Entity.dll
+D:\Code\AuthorizationPro\AuthorizationPro\AuthorizationPro.Entity\obj\Debug\netstandard2.0\AuthorizationPro.Entity.pdb
