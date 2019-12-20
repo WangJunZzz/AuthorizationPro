@@ -2,3 +2,9 @@
 bin/
 obj/
 
+/AuthorizationPro/AuthorizationPro/obj
+/AuthorizationPro/AuthorizationPro/bin
+/AuthorizationPro/AuthorizationPro.Entity/obj
+/AuthorizationPro/AuthorizationPro.Entity/bin
+/AuthorizationPro/Simple.AuthorizationPro/obj
+/AuthorizationPro/Simple.AuthorizationPro/bin
